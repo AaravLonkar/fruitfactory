@@ -1,0 +1,2016 @@
+fileFormatVersion: 2
+guid: 09d838d6da99f45fca6b6ee35d0764f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -634939176177036431
+    second: ezgif.com-gif-maker (1)_0
+  - first:
+      213: 1291146559195552984
+    second: ezgif.com-gif-maker (1)_1
+  - first:
+      213: -7249430012921954511
+    second: ezgif.com-gif-maker (1)_2
+  - first:
+      213: -7458982963906360784
+    second: ezgif.com-gif-maker (1)_3
+  - first:
+      213: 2828206487452950891
+    second: ezgif.com-gif-maker (1)_4
+  - first:
+      213: 7343336956831097597
+    second: ezgif.com-gif-maker (1)_5
+  - first:
+      213: -6623594924128421203
+    second: ezgif.com-gif-maker (1)_6
+  - first:
+      213: 7791262819983882499
+    second: ezgif.com-gif-maker (1)_7
+  - first:
+      213: 241785388218342967
+    second: ezgif.com-gif-maker (1)_8
+  - first:
+      213: 5417883462495597884
+    second: ezgif.com-gif-maker (1)_9
+  - first:
+      213: 472873386604557783
+    second: ezgif.com-gif-maker (1)_10
+  - first:
+      213: 5349512826217981496
+    second: ezgif.com-gif-maker (1)_11
+  - first:
+      213: 2701599124390602733
+    second: ezgif.com-gif-maker (1)_12
+  - first:
+      213: 7878283737752787609
+    second: ezgif.com-gif-maker (1)_13
+  - first:
+      213: -6883640556570919552
+    second: ezgif.com-gif-maker (1)_14
+  - first:
+      213: -3612094868450824868
+    second: ezgif.com-gif-maker (1)_15
+  - first:
+      213: 52755155562801969
+    second: ezgif.com-gif-maker (1)_16
+  - first:
+      213: -7270611986194033558
+    second: ezgif.com-gif-maker (1)_17
+  - first:
+      213: 4985446541026685951
+    second: ezgif.com-gif-maker (1)_18
+  - first:
+      213: -7170064223377782939
+    second: ezgif.com-gif-maker (1)_19
+  - first:
+      213: 911837858753134242
+    second: ezgif.com-gif-maker (1)_20
+  - first:
+      213: 2666439674229122741
+    second: ezgif.com-gif-maker (1)_21
+  - first:
+      213: -2120384510359204111
+    second: ezgif.com-gif-maker (1)_22
+  - first:
+      213: -8846343429731164921
+    second: ezgif.com-gif-maker (1)_23
+  - first:
+      213: -6801367301517889734
+    second: ezgif.com-gif-maker (1)_24
+  - first:
+      213: -5466712162326706905
+    second: ezgif.com-gif-maker (1)_25
+  - first:
+      213: -2218456544581690247
+    second: ezgif.com-gif-maker (1)_26
+  - first:
+      213: 3822817054177814211
+    second: ezgif.com-gif-maker (1)_27
+  - first:
+      213: 4754018035611965780
+    second: ezgif.com-gif-maker (1)_28
+  - first:
+      213: -8590264058355024044
+    second: ezgif.com-gif-maker (1)_29
+  - first:
+      213: -1497911566664419282
+    second: ezgif.com-gif-maker (1)_30
+  - first:
+      213: 1834025911150009500
+    second: ezgif.com-gif-maker (1)_31
+  - first:
+      213: -4844562432474317858
+    second: ezgif.com-gif-maker (1)_32
+  - first:
+      213: -8089348007799229966
+    second: ezgif.com-gif-maker (1)_33
+  - first:
+      213: -4360091564464201847
+    second: ezgif.com-gif-maker (1)_34
+  - first:
+      213: 4074063878093805025
+    second: ezgif.com-gif-maker (1)_35
+  - first:
+      213: 5400141914081668717
+    second: ezgif.com-gif-maker (1)_36
+  - first:
+      213: -6757154779244301794
+    second: ezgif.com-gif-maker (1)_37
+  - first:
+      213: -3435439427441671918
+    second: ezgif.com-gif-maker (1)_38
+  - first:
+      213: -1424350768493200322
+    second: ezgif.com-gif-maker (1)_39
+  - first:
+      213: 5130641369222829954
+    second: ezgif.com-gif-maker (1)_40
+  - first:
+      213: 3401095279729432227
+    second: ezgif.com-gif-maker (1)_41
+  - first:
+      213: -5167868560122124263
+    second: ezgif.com-gif-maker (1)_42
+  - first:
+      213: -4391401655277230818
+    second: ezgif.com-gif-maker (1)_43
+  - first:
+      213: -3501168556072333184
+    second: ezgif.com-gif-maker (1)_44
+  - first:
+      213: -8128180546572185427
+    second: ezgif.com-gif-maker (1)_45
+  - first:
+      213: 1327483809664560681
+    second: ezgif.com-gif-maker (1)_46
+  - first:
+      213: 4177550195107446239
+    second: ezgif.com-gif-maker (1)_47
+  - first:
+      213: 8343622571337560457
+    second: ezgif.com-gif-maker (1)_48
+  - first:
+      213: -2995497950394010891
+    second: ezgif.com-gif-maker (1)_49
+  - first:
+      213: 6137196095449265886
+    second: ezgif.com-gif-maker (1)_50
+  - first:
+      213: 108799646440184343
+    second: ezgif.com-gif-maker (1)_51
+  - first:
+      213: -4470107299303319691
+    second: ezgif.com-gif-maker (1)_52
+  - first:
+      213: 7786253371639150843
+    second: ezgif.com-gif-maker (1)_53
+  - first:
+      213: -354374946695591858
+    second: ezgif.com-gif-maker (1)_54
+  - first:
+      213: 6280482568080094108
+    second: ezgif.com-gif-maker (1)_55
+  - first:
+      213: -8648811862718155191
+    second: ezgif.com-gif-maker (1)_56
+  - first:
+      213: 2641283985248420497
+    second: ezgif.com-gif-maker (1)_57
+  - first:
+      213: 3450776206468000544
+    second: ezgif.com-gif-maker (1)_58
+  - first:
+      213: -7532724933849764255
+    second: ezgif.com-gif-maker (1)_59
+  - first:
+      213: 7553351610142538978
+    second: ezgif.com-gif-maker (1)_60
+  - first:
+      213: 134891341637352178
+    second: ezgif.com-gif-maker (1)_61
+  - first:
+      213: 7077147467940305360
+    second: ezgif.com-gif-maker (1)_62
+  - first:
+      213: 5160574973548844148
+    second: ezgif.com-gif-maker (1)_63
+  - first:
+      213: -8957644326931003319
+    second: ezgif.com-gif-maker (1)_64
+  - first:
+      213: -2730570696547211926
+    second: ezgif.com-gif-maker (1)_65
+  - first:
+      213: 4287880367433094991
+    second: ezgif.com-gif-maker (1)_66
+  - first:
+      213: -8642116600992147628
+    second: ezgif.com-gif-maker (1)_67
+  - first:
+      213: 2593171690683962824
+    second: ezgif.com-gif-maker (1)_68
+  - first:
+      213: 2689713863387501046
+    second: ezgif.com-gif-maker (1)_69
+  - first:
+      213: -3302250238245692256
+    second: ezgif.com-gif-maker (1)_70
+  - first:
+      213: -7060056585369275027
+    second: ezgif.com-gif-maker (1)_71
+  - first:
+      213: 6548096557633223100
+    second: ezgif.com-gif-maker (1)_72
+  - first:
+      213: 1329430968184479549
+    second: ezgif.com-gif-maker (1)_73
+  - first:
+      213: 3181387326541821092
+    second: ezgif.com-gif-maker (1)_74
+  - first:
+      213: 4798845299635376384
+    second: ezgif.com-gif-maker (1)_75
+  - first:
+      213: -5759185395208208292
+    second: ezgif.com-gif-maker (1)_76
+  - first:
+      213: 6547220825022480978
+    second: ezgif.com-gif-maker (1)_77
+  - first:
+      213: 5280720313057256422
+    second: ezgif.com-gif-maker (1)_78
+  - first:
+      213: 7572187032000959663
+    second: ezgif.com-gif-maker (1)_79
+  - first:
+      213: 9073582590481619264
+    second: ezgif.com-gif-maker (1)_80
+  - first:
+      213: -3428384766596456236
+    second: ezgif.com-gif-maker (1)_81
+  - first:
+      213: 3337517462866249053
+    second: ezgif.com-gif-maker (1)_82
+  - first:
+      213: 6811095367780729551
+    second: ezgif.com-gif-maker (1)_83
+  - first:
+      213: -5299737790777651047
+    second: ezgif.com-gif-maker (1)_84
+  - first:
+      213: 5266088385953351379
+    second: ezgif.com-gif-maker (1)_85
+  - first:
+      213: -5223195106580036014
+    second: ezgif.com-gif-maker (1)_86
+  - first:
+      213: -7251892926544777625
+    second: ezgif.com-gif-maker (1)_87
+  - first:
+      213: 9073901777730684978
+    second: ezgif.com-gif-maker (1)_88
+  - first:
+      213: 3854416663954821164
+    second: ezgif.com-gif-maker (1)_89
+  - first:
+      213: 8643844528361641873
+    second: ezgif.com-gif-maker (1)_90
+  - first:
+      213: 5018830839093472199
+    second: ezgif.com-gif-maker (1)_91
+  - first:
+      213: -4516186118966135020
+    second: ezgif.com-gif-maker (1)_92
+  - first:
+      213: -1953807158026679016
+    second: ezgif.com-gif-maker (1)_93
+  - first:
+      213: 2769080574533436533
+    second: ezgif.com-gif-maker (1)_94
+  - first:
+      213: 6074938965940496616
+    second: ezgif.com-gif-maker (1)_95
+  - first:
+      213: -5880233411294815208
+    second: ezgif.com-gif-maker (1)_96
+  - first:
+      213: -2394030758331924281
+    second: ezgif.com-gif-maker (1)_97
+  - first:
+      213: -6265425864490193629
+    second: ezgif.com-gif-maker (1)_98
+  - first:
+      213: -7661062051667166819
+    second: ezgif.com-gif-maker (1)_99
+  - first:
+      213: -3658903578537380990
+    second: ezgif.com-gif-maker (1)_100
+  - first:
+      213: -5700258244693857483
+    second: ezgif.com-gif-maker (1)_101
+  - first:
+      213: 9012871659035872309
+    second: ezgif.com-gif-maker (1)_102
+  - first:
+      213: 2410384266632708869
+    second: ezgif.com-gif-maker (1)_103
+  - first:
+      213: 519090365546917322
+    second: ezgif.com-gif-maker (1)_104
+  - first:
+      213: -1348447706948238478
+    second: ezgif.com-gif-maker (1)_105
+  - first:
+      213: -5856879698390956163
+    second: ezgif.com-gif-maker (1)_106
+  - first:
+      213: 1991393349983765085
+    second: ezgif.com-gif-maker (1)_107
+  - first:
+      213: 6034851955715034411
+    second: ezgif.com-gif-maker (1)_108
+  - first:
+      213: -1706500172001598672
+    second: ezgif.com-gif-maker (1)_109
+  - first:
+      213: 6034998690050895514
+    second: ezgif.com-gif-maker (1)_110
+  - first:
+      213: -4707888204860758776
+    second: ezgif.com-gif-maker (1)_111
+  - first:
+      213: -8070061370370985690
+    second: ezgif.com-gif-maker (1)_112
+  - first:
+      213: 1459675582097179471
+    second: ezgif.com-gif-maker (1)_113
+  - first:
+      213: 1062063535670840724
+    second: ezgif.com-gif-maker (1)_114
+  - first:
+      213: 5797206540324110028
+    second: ezgif.com-gif-maker (1)_115
+  - first:
+      213: 4261025829102001629
+    second: ezgif.com-gif-maker (1)_116
+  - first:
+      213: -5021776841608870810
+    second: ezgif.com-gif-maker (1)_117
+  - first:
+      213: -4911411148946476979
+    second: ezgif.com-gif-maker (1)_118
+  - first:
+      213: -1973075786093798165
+    second: ezgif.com-gif-maker (1)_119
+  - first:
+      213: 2613095658810852130
+    second: ezgif.com-gif-maker (1)_120
+  - first:
+      213: 7742414747708376813
+    second: ezgif.com-gif-maker (1)_121
+  - first:
+      213: -3280819078439101748
+    second: ezgif.com-gif-maker (1)_122
+  - first:
+      213: 6587178832132399508
+    second: ezgif.com-gif-maker (1)_123
+  - first:
+      213: -5038941396573752740
+    second: ezgif.com-gif-maker (1)_124
+  - first:
+      213: 5192713341046163001
+    second: ezgif.com-gif-maker (1)_125
+  - first:
+      213: -7709358271214503250
+    second: ezgif.com-gif-maker (1)_126
+  - first:
+      213: 2991895987675777580
+    second: ezgif.com-gif-maker (1)_127
+  - first:
+      213: 8107684400989833894
+    second: ezgif.com-gif-maker (1)_128
+  - first:
+      213: 7661798955668289970
+    second: ezgif.com-gif-maker (1)_129
+  - first:
+      213: 6785987252526364939
+    second: ezgif.com-gif-maker (1)_130
+  - first:
+      213: 5263260529935237989
+    second: ezgif.com-gif-maker (1)_131
+  - first:
+      213: -1077308601875007453
+    second: ezgif.com-gif-maker (1)_132
+  - first:
+      213: -5395081074030174103
+    second: ezgif.com-gif-maker (1)_133
+  - first:
+      213: 103960683027727678
+    second: ezgif.com-gif-maker (1)_134
+  - first:
+      213: -9102809612775027135
+    second: ezgif.com-gif-maker (1)_135
+  - first:
+      213: -7218654343674289626
+    second: ezgif.com-gif-maker (1)_136
+  - first:
+      213: 2987728829629755860
+    second: ezgif.com-gif-maker (1)_137
+  - first:
+      213: 5756375676396891524
+    second: ezgif.com-gif-maker (1)_138
+  - first:
+      213: -5392737874710482182
+    second: ezgif.com-gif-maker (1)_139
+  - first:
+      213: -3847205024982661244
+    second: ezgif.com-gif-maker (1)_140
+  - first:
+      213: -6069558755604011058
+    second: ezgif.com-gif-maker (1)_141
+  - first:
+      213: 7599795729631337531
+    second: ezgif.com-gif-maker (1)_142
+  - first:
+      213: 5236383011413796226
+    second: ezgif.com-gif-maker (1)_143
+  - first:
+      213: 2123702668163829233
+    second: ezgif.com-gif-maker (1)_144
+  - first:
+      213: 7640480126417039778
+    second: ezgif.com-gif-maker (1)_145
+  - first:
+      213: 670678686085046657
+    second: ezgif.com-gif-maker (1)_146
+  - first:
+      213: -2920560946282007933
+    second: ezgif.com-gif-maker (1)_147
+  - first:
+      213: 1384855604377223329
+    second: ezgif.com-gif-maker (1)_148
+  - first:
+      213: -5379946673908224297
+    second: ezgif.com-gif-maker (1)_149
+  - first:
+      213: -464440704924993105
+    second: ezgif.com-gif-maker (1)_150
+  - first:
+      213: 6797767644948423676
+    second: ezgif.com-gif-maker (1)_151
+  - first:
+      213: 1946083813697811525
+    second: ezgif.com-gif-maker (1)_152
+  - first:
+      213: -5380175522693236773
+    second: ezgif.com-gif-maker (1)_153
+  - first:
+      213: -6036447521650186060
+    second: ezgif.com-gif-maker (1)_154
+  - first:
+      213: 4340388660659940403
+    second: ezgif.com-gif-maker (1)_155
+  - first:
+      213: 5461902679575083327
+    second: ezgif.com-gif-maker (1)_156
+  - first:
+      213: -5256199693638971686
+    second: ezgif.com-gif-maker (1)_157
+  - first:
+      213: 6897970150964441817
+    second: ezgif.com-gif-maker (1)_158
+  - first:
+      213: 7393816293031986490
+    second: ezgif.com-gif-maker (1)_159
+  - first:
+      213: 6967528233908166456
+    second: ezgif.com-gif-maker (1)_160
+  - first:
+      213: 1661851553103607651
+    second: ezgif.com-gif-maker (1)_161
+  - first:
+      213: 5897294608853974647
+    second: ezgif.com-gif-maker (1)_162
+  - first:
+      213: 1419384939296897285
+    second: ezgif.com-gif-maker (1)_163
+  - first:
+      213: 5998308262831848753
+    second: ezgif.com-gif-maker (1)_164
+  - first:
+      213: 71178169093277343
+    second: ezgif.com-gif-maker (1)_165
+  - first:
+      213: -7888011778755477171
+    second: ezgif.com-gif-maker (1)_166
+  - first:
+      213: 3565513434601600777
+    second: ezgif.com-gif-maker (1)_167
+  - first:
+      213: -6527781404163206549
+    second: ezgif.com-gif-maker (1)_168
+  - first:
+      213: -2460086446329549146
+    second: ezgif.com-gif-maker (1)_169
+  - first:
+      213: 5285408155045675753
+    second: ezgif.com-gif-maker (1)_170
+  - first:
+      213: 8492087639371482972
+    second: ezgif.com-gif-maker (1)_171
+  - first:
+      213: 1256230725820289349
+    second: ezgif.com-gif-maker (1)_172
+  - first:
+      213: -6971813579178284206
+    second: ezgif.com-gif-maker (1)_173
+  - first:
+      213: -501378495265572986
+    second: ezgif.com-gif-maker (1)_174
+  - first:
+      213: 8704940898785623248
+    second: ezgif.com-gif-maker (1)_175
+  - first:
+      213: -2692492837563554476
+    second: ezgif.com-gif-maker (1)_176
+  - first:
+      213: 779587257464487243
+    second: ezgif.com-gif-maker (1)_177
+  - first:
+      213: 2215095962428320484
+    second: ezgif.com-gif-maker (1)_178
+  - first:
+      213: -32000116760230318
+    second: ezgif.com-gif-maker (1)_179
+  - first:
+      213: -7928496738885418236
+    second: ezgif.com-gif-maker (1)_180
+  - first:
+      213: -6135385858229827553
+    second: ezgif.com-gif-maker (1)_181
+  - first:
+      213: 8262153747304219341
+    second: ezgif.com-gif-maker (1)_182
+  - first:
+      213: -553468098486086565
+    second: ezgif.com-gif-maker (1)_183
+  - first:
+      213: -6404309663769989278
+    second: ezgif.com-gif-maker (1)_184
+  - first:
+      213: -4174029427103297006
+    second: ezgif.com-gif-maker (1)_185
+  - first:
+      213: -1775535536521545080
+    second: ezgif.com-gif-maker (1)_186
+  - first:
+      213: -5546833519217813016
+    second: ezgif.com-gif-maker (1)_187
+  - first:
+      213: -4477596940941463342
+    second: ezgif.com-gif-maker (1)_188
+  - first:
+      213: 853287957427705816
+    second: ezgif.com-gif-maker (1)_189
+  - first:
+      213: -4335282283074796487
+    second: ezgif.com-gif-maker (1)_190
+  - first:
+      213: 6873114444347838900
+    second: ezgif.com-gif-maker (1)_191
+  - first:
+      213: -4671804357848951918
+    second: ezgif.com-gif-maker (1)_192
+  - first:
+      213: 2623338059569230481
+    second: ezgif.com-gif-maker (1)_193
+  - first:
+      213: -8095851610875322266
+    second: ezgif.com-gif-maker (1)_194
+  - first:
+      213: 399567948546317475
+    second: ezgif.com-gif-maker (1)_195
+  - first:
+      213: -2718069977021946739
+    second: ezgif.com-gif-maker (1)_196
+  - first:
+      213: 6892153683117120076
+    second: ezgif.com-gif-maker (1)_197
+  - first:
+      213: -8182777951812415871
+    second: ezgif.com-gif-maker (1)_198
+  - first:
+      213: -5894490620766920093
+    second: ezgif.com-gif-maker (1)_199
+  - first:
+      213: 2486129447084415307
+    second: ezgif.com-gif-maker (1)_200
+  - first:
+      213: 1815792895776298555
+    second: ezgif.com-gif-maker (1)_201
+  - first:
+      213: -9223151196445037459
+    second: ezgif.com-gif-maker (1)_202
+  - first:
+      213: -2752581708407652240
+    second: ezgif.com-gif-maker (1)_203
+  - first:
+      213: -9135136040964986927
+    second: ezgif.com-gif-maker (1)_204
+  - first:
+      213: 209330246350187806
+    second: ezgif.com-gif-maker (1)_205
+  - first:
+      213: 5248848856687080417
+    second: ezgif.com-gif-maker (1)_206
+  - first:
+      213: -1105730442247107217
+    second: ezgif.com-gif-maker (1)_207
+  - first:
+      213: 610320907597879944
+    second: ezgif.com-gif-maker (1)_208
+  - first:
+      213: 188713042734185120
+    second: ezgif.com-gif-maker (1)_209
+  - first:
+      213: 7527035254193303499
+    second: ezgif.com-gif-maker (1)_210
+  - first:
+      213: -2569886889597271682
+    second: ezgif.com-gif-maker (1)_211
+  - first:
+      213: -4712702023443238233
+    second: ezgif.com-gif-maker (1)_212
+  - first:
+      213: -5037062237429128193
+    second: ezgif.com-gif-maker (1)_213
+  - first:
+      213: 8159857416499302840
+    second: ezgif.com-gif-maker (1)_214
+  - first:
+      213: -2779883341106111890
+    second: ezgif.com-gif-maker (1)_215
+  - first:
+      213: 6287412905911439595
+    second: ezgif.com-gif-maker (1)_216
+  - first:
+      213: -4158082635561075106
+    second: ezgif.com-gif-maker (1)_217
+  - first:
+      213: 2107344641685220656
+    second: ezgif.com-gif-maker (1)_218
+  - first:
+      213: -2480072714794613499
+    second: ezgif.com-gif-maker (1)_219
+  - first:
+      213: 8688612054002186033
+    second: ezgif.com-gif-maker (1)_220
+  - first:
+      213: -6876212989301121872
+    second: ezgif.com-gif-maker (1)_221
+  - first:
+      213: -6065660344661797335
+    second: ezgif.com-gif-maker (1)_222
+  - first:
+      213: -3446967852270268351
+    second: ezgif.com-gif-maker (1)_223
+  - first:
+      213: -4116611460643402364
+    second: ezgif.com-gif-maker (1)_224
+  - first:
+      213: -3510423502095887123
+    second: ezgif.com-gif-maker (1)_225
+  - first:
+      213: 2161686850679527563
+    second: ezgif.com-gif-maker (1)_226
+  - first:
+      213: 7175794554256616227
+    second: ezgif.com-gif-maker (1)_227
+  - first:
+      213: 1761478275380814798
+    second: ezgif.com-gif-maker (1)_228
+  - first:
+      213: -5045276937902457378
+    second: ezgif.com-gif-maker (1)_229
+  - first:
+      213: -5271735798962786744
+    second: ezgif.com-gif-maker (1)_230
+  - first:
+      213: -1035397057776016129
+    second: ezgif.com-gif-maker (1)_231
+  - first:
+      213: -4377181457446168318
+    second: ezgif.com-gif-maker (1)_232
+  - first:
+      213: -8616498431538303528
+    second: ezgif.com-gif-maker (1)_233
+  - first:
+      213: 2807303779570271079
+    second: ezgif.com-gif-maker (1)_234
+  - first:
+      213: 1085218391740226523
+    second: ezgif.com-gif-maker (1)_235
+  - first:
+      213: 7286211685455656601
+    second: ezgif.com-gif-maker (1)_236
+  - first:
+      213: 849233495547613035
+    second: ezgif.com-gif-maker (1)_237
+  - first:
+      213: -1847555348839480899
+    second: ezgif.com-gif-maker (1)_238
+  - first:
+      213: -6047197894811957362
+    second: ezgif.com-gif-maker (1)_239
+  - first:
+      213: 424227338506273513
+    second: ezgif.com-gif-maker (1)_240
+  - first:
+      213: -5164720699722320269
+    second: ezgif.com-gif-maker (1)_241
+  - first:
+      213: -8843013987362794791
+    second: ezgif.com-gif-maker (1)_242
+  - first:
+      213: -2442082752340585416
+    second: ezgif.com-gif-maker (1)_243
+  - first:
+      213: -7105200991162330227
+    second: ezgif.com-gif-maker (1)_244
+  - first:
+      213: -4223720661395148816
+    second: ezgif.com-gif-maker (1)_245
+  - first:
+      213: 6103588863199342755
+    second: ezgif.com-gif-maker (1)_246
+  - first:
+      213: 8404847489458234964
+    second: ezgif.com-gif-maker (1)_247
+  - first:
+      213: 5922643896434024610
+    second: ezgif.com-gif-maker (1)_248
+  - first:
+      213: -8706313298711353575
+    second: ezgif.com-gif-maker (1)_249
+  - first:
+      213: 8239457625900741655
+    second: ezgif.com-gif-maker (1)_250
+  - first:
+      213: -2769040851100375107
+    second: ezgif.com-gif-maker (1)_251
+  - first:
+      213: 6374120323694398683
+    second: ezgif.com-gif-maker (1)_252
+  - first:
+      213: -1377043348116307792
+    second: ezgif.com-gif-maker (1)_253
+  - first:
+      213: -6817013589147405966
+    second: ezgif.com-gif-maker (1)_254
+  - first:
+      213: -2400998035316280791
+    second: ezgif.com-gif-maker (1)_255
+  - first:
+      213: -703665721540485578
+    second: ezgif.com-gif-maker (1)_256
+  - first:
+      213: -3533369965898811599
+    second: ezgif.com-gif-maker (1)_257
+  - first:
+      213: 3462264079990691744
+    second: ezgif.com-gif-maker (1)_258
+  - first:
+      213: 1986677804718032400
+    second: ezgif.com-gif-maker (1)_259
+  - first:
+      213: -4119004426578764725
+    second: ezgif.com-gif-maker (1)_260
+  - first:
+      213: -1060317769501601147
+    second: ezgif.com-gif-maker (1)_261
+  - first:
+      213: -7600466740631306109
+    second: ezgif.com-gif-maker (1)_262
+  - first:
+      213: 6935129470946638725
+    second: ezgif.com-gif-maker (1)_263
+  - first:
+      213: -5132958711967580003
+    second: ezgif.com-gif-maker (1)_264
+  - first:
+      213: 4666271795634403793
+    second: ezgif.com-gif-maker (1)_265
+  - first:
+      213: -491166008465729515
+    second: ezgif.com-gif-maker (1)_266
+  - first:
+      213: 4939501108230343051
+    second: ezgif.com-gif-maker (1)_267
+  - first:
+      213: -2457744254684236598
+    second: ezgif.com-gif-maker (1)_268
+  - first:
+      213: 4528032505363228747
+    second: ezgif.com-gif-maker (1)_269
+  - first:
+      213: -4940506103539409677
+    second: ezgif.com-gif-maker (1)_270
+  - first:
+      213: 3465773223857444613
+    second: ezgif.com-gif-maker (1)_271
+  - first:
+      213: 2856089289760133139
+    second: ezgif.com-gif-maker (1)_272
+  - first:
+      213: -5925416686830152714
+    second: ezgif.com-gif-maker (1)_273
+  - first:
+      213: 5565657918791193585
+    second: ezgif.com-gif-maker (1)_274
+  - first:
+      213: 8289676074629053524
+    second: ezgif.com-gif-maker (1)_275
+  - first:
+      213: 149282674096496201
+    second: ezgif.com-gif-maker (1)_276
+  - first:
+      213: -8193947173314133968
+    second: ezgif.com-gif-maker (1)_277
+  - first:
+      213: 901905278292689848
+    second: ezgif.com-gif-maker (1)_278
+  - first:
+      213: 7828567567792104054
+    second: ezgif.com-gif-maker (1)_279
+  - first:
+      213: 1615046862592805042
+    second: ezgif.com-gif-maker (1)_280
+  - first:
+      213: -1259130844641740112
+    second: ezgif.com-gif-maker (1)_281
+  - first:
+      213: 916081326515616252
+    second: ezgif.com-gif-maker (1)_282
+  - first:
+      213: 8760729952304061897
+    second: ezgif.com-gif-maker (1)_283
+  - first:
+      213: -6130914231709227767
+    second: ezgif.com-gif-maker (1)_284
+  - first:
+      213: -1744426764573765353
+    second: ezgif.com-gif-maker (1)_285
+  - first:
+      213: -259169813658826282
+    second: ezgif.com-gif-maker (1)_286
+  - first:
+      213: 2411291989210310912
+    second: ezgif.com-gif-maker (1)_287
+  - first:
+      213: 574454774613668748
+    second: ezgif.com-gif-maker (1)_288
+  - first:
+      213: -1642890011387566697
+    second: ezgif.com-gif-maker (1)_289
+  - first:
+      213: -7782872351955720149
+    second: ezgif.com-gif-maker (1)_290
+  - first:
+      213: -2145768798215655460
+    second: ezgif.com-gif-maker (1)_291
+  - first:
+      213: 8272956345860975770
+    second: ezgif.com-gif-maker (1)_292
+  - first:
+      213: -2989647206603349460
+    second: ezgif.com-gif-maker (1)_293
+  - first:
+      213: 4868586310094362074
+    second: ezgif.com-gif-maker (1)_294
+  - first:
+      213: -6471379132519261016
+    second: ezgif.com-gif-maker (1)_295
+  - first:
+      213: -3078497780476730071
+    second: ezgif.com-gif-maker (1)_296
+  - first:
+      213: -5865752909214908596
+    second: ezgif.com-gif-maker (1)_297
+  - first:
+      213: -7329387815953113720
+    second: ezgif.com-gif-maker (1)_298
+  - first:
+      213: -5666427234978198220
+    second: ezgif.com-gif-maker (1)_299
+  - first:
+      213: -2067023631193201560
+    second: ezgif.com-gif-maker (1)_300
+  - first:
+      213: -4547307638477746335
+    second: ezgif.com-gif-maker (1)_301
+  - first:
+      213: -2072774073364189537
+    second: ezgif.com-gif-maker (1)_302
+  - first:
+      213: -3928897167125160436
+    second: ezgif.com-gif-maker (1)_303
+  - first:
+      213: -5994332749182888503
+    second: ezgif.com-gif-maker (1)_304
+  - first:
+      213: 4579421531433220094
+    second: ezgif.com-gif-maker (1)_305
+  - first:
+      213: -2267270000649322529
+    second: ezgif.com-gif-maker (1)_306
+  - first:
+      213: 8911682885246445902
+    second: ezgif.com-gif-maker (1)_307
+  - first:
+      213: 436360276306454986
+    second: ezgif.com-gif-maker (1)_308
+  - first:
+      213: -6745589010714398351
+    second: ezgif.com-gif-maker (1)_309
+  - first:
+      213: -553500575604680525
+    second: ezgif.com-gif-maker (1)_310
+  - first:
+      213: 8556871918147342461
+    second: ezgif.com-gif-maker (1)_311
+  - first:
+      213: -8606900710440786929
+    second: ezgif.com-gif-maker (1)_312
+  - first:
+      213: -6140088702459574336
+    second: ezgif.com-gif-maker (1)_313
+  - first:
+      213: 7825619493405354233
+    second: ezgif.com-gif-maker (1)_314
+  - first:
+      213: 5501595677224291399
+    second: ezgif.com-gif-maker (1)_315
+  - first:
+      213: -3269168464365110918
+    second: ezgif.com-gif-maker (1)_316
+  - first:
+      213: -5429971790460734866
+    second: ezgif.com-gif-maker (1)_317
+  - first:
+      213: 612603619673565633
+    second: ezgif.com-gif-maker (1)_318
+  - first:
+      213: 4167546810229056732
+    second: ezgif.com-gif-maker (1)_319
+  - first:
+      213: -6019211810592239242
+    second: ezgif.com-gif-maker (1)_320
+  - first:
+      213: 3506367611192074377
+    second: ezgif.com-gif-maker (1)_321
+  - first:
+      213: -381280313396673988
+    second: ezgif.com-gif-maker (1)_322
+  - first:
+      213: -6218119636624181739
+    second: ezgif.com-gif-maker (1)_323
+  - first:
+      213: -6571867784551787547
+    second: ezgif.com-gif-maker (1)_324
+  - first:
+      213: 6797218172693431153
+    second: ezgif.com-gif-maker (1)_325
+  - first:
+      213: -6186263946648910668
+    second: ezgif.com-gif-maker (1)_326
+  - first:
+      213: 1383283443368178525
+    second: ezgif.com-gif-maker (1)_327
+  - first:
+      213: 1225413287655153756
+    second: ezgif.com-gif-maker (1)_328
+  - first:
+      213: -1205959616964108080
+    second: ezgif.com-gif-maker (1)_329
+  - first:
+      213: 9041681210816283658
+    second: ezgif.com-gif-maker (1)_330
+  - first:
+      213: 8217419974469383201
+    second: ezgif.com-gif-maker (1)_331
+  - first:
+      213: -8289506837815584524
+    second: ezgif.com-gif-maker (1)_332
+  - first:
+      213: 8758128727056873548
+    second: ezgif.com-gif-maker (1)_333
+  - first:
+      213: -2251828733150072302
+    second: ezgif.com-gif-maker (1)_334
+  - first:
+      213: 8073665085083785525
+    second: ezgif.com-gif-maker (1)_335
+  - first:
+      213: 1328413584276636541
+    second: ezgif.com-gif-maker (1)_336
+  - first:
+      213: -592097429174472260
+    second: ezgif.com-gif-maker (1)_337
+  - first:
+      213: 2955029189019662843
+    second: ezgif.com-gif-maker (1)_338
+  - first:
+      213: -6709119263650586827
+    second: ezgif.com-gif-maker (1)_339
+  - first:
+      213: 7167096876479719599
+    second: ezgif.com-gif-maker (1)_340
+  - first:
+      213: 8705984647531132307
+    second: ezgif.com-gif-maker (1)_341
+  - first:
+      213: -7631935385741593817
+    second: ezgif.com-gif-maker (1)_342
+  - first:
+      213: -6294246947512298072
+    second: ezgif.com-gif-maker (1)_343
+  - first:
+      213: -5692126112079690547
+    second: ezgif.com-gif-maker (1)_344
+  - first:
+      213: 1374874854210123059
+    second: ezgif.com-gif-maker (1)_345
+  - first:
+      213: -2134877352073701673
+    second: ezgif.com-gif-maker (1)_346
+  - first:
+      213: -1197090790407828260
+    second: ezgif.com-gif-maker (1)_347
+  - first:
+      213: 1026731303462823372
+    second: ezgif.com-gif-maker (1)_348
+  - first:
+      213: -429005051089768067
+    second: ezgif.com-gif-maker (1)_349
+  - first:
+      213: 7001973522713301731
+    second: ezgif.com-gif-maker (1)_350
+  - first:
+      213: -2427063573733373221
+    second: ezgif.com-gif-maker (1)_351
+  - first:
+      213: 6281411898668453279
+    second: ezgif.com-gif-maker (1)_352
+  - first:
+      213: 4216369033464966933
+    second: ezgif.com-gif-maker (1)_353
+  - first:
+      213: -7248948256261099616
+    second: ezgif.com-gif-maker (1)_354
+  - first:
+      213: -531375657075279473
+    second: ezgif.com-gif-maker (1)_355
+  - first:
+      213: 1493988659929203180
+    second: ezgif.com-gif-maker (1)_356
+  - first:
+      213: -5760413663739852598
+    second: ezgif.com-gif-maker (1)_357
+  - first:
+      213: 2740999769139339925
+    second: ezgif.com-gif-maker (1)_358
+  - first:
+      213: -184527932299113726
+    second: ezgif.com-gif-maker (1)_359
+  - first:
+      213: -7977162984520300180
+    second: ezgif.com-gif-maker (1)_360
+  - first:
+      213: -8523416490313082145
+    second: ezgif.com-gif-maker (1)_361
+  - first:
+      213: 1487500242079031457
+    second: ezgif.com-gif-maker (1)_362
+  - first:
+      213: -402476133517230529
+    second: ezgif.com-gif-maker (1)_363
+  - first:
+      213: -6358604020201136211
+    second: ezgif.com-gif-maker (1)_364
+  - first:
+      213: -86802966081601596
+    second: ezgif.com-gif-maker (1)_365
+  - first:
+      213: -8071916645242982915
+    second: ezgif.com-gif-maker (1)_366
+  - first:
+      213: -6226541423271282926
+    second: ezgif.com-gif-maker (1)_367
+  - first:
+      213: 1704460219433185047
+    second: ezgif.com-gif-maker (1)_368
+  - first:
+      213: -8827484319040618559
+    second: ezgif.com-gif-maker (1)_369
+  - first:
+      213: 7689883811966380987
+    second: ezgif.com-gif-maker (1)_370
+  - first:
+      213: -5807367614356985973
+    second: ezgif.com-gif-maker (1)_371
+  - first:
+      213: -3125711428328982190
+    second: ezgif.com-gif-maker (1)_372
+  - first:
+      213: -5040191754698764574
+    second: ezgif.com-gif-maker (1)_373
+  - first:
+      213: -7432804933266852207
+    second: ezgif.com-gif-maker (1)_374
+  - first:
+      213: -201980949525106200
+    second: ezgif.com-gif-maker (1)_375
+  - first:
+      213: 531247148635675665
+    second: ezgif.com-gif-maker (1)_376
+  - first:
+      213: -6484101875687738432
+    second: ezgif.com-gif-maker (1)_377
+  - first:
+      213: -3334351846012019807
+    second: ezgif.com-gif-maker (1)_378
+  - first:
+      213: 5227357058985072906
+    second: ezgif.com-gif-maker (1)_379
+  - first:
+      213: -3652864769173947580
+    second: ezgif.com-gif-maker (1)_380
+  - first:
+      213: -5504682516967387143
+    second: ezgif.com-gif-maker (1)_381
+  - first:
+      213: -6435321194989998713
+    second: ezgif.com-gif-maker (1)_382
+  - first:
+      213: -8739925381382920929
+    second: ezgif.com-gif-maker (1)_383
+  - first:
+      213: -2785522071369340974
+    second: ezgif.com-gif-maker (1)_384
+  - first:
+      213: 446562303532723080
+    second: ezgif.com-gif-maker (1)_385
+  - first:
+      213: 2080325095882694430
+    second: ezgif.com-gif-maker (1)_386
+  - first:
+      213: 1875259342936259422
+    second: ezgif.com-gif-maker (1)_387
+  - first:
+      213: -7714383806578548438
+    second: ezgif.com-gif-maker (1)_388
+  - first:
+      213: -837408464641018222
+    second: ezgif.com-gif-maker (1)_389
+  - first:
+      213: -1304286011448488187
+    second: ezgif.com-gif-maker (1)_390
+  - first:
+      213: -7701286032542879696
+    second: ezgif.com-gif-maker (1)_391
+  - first:
+      213: -5953343149635559018
+    second: ezgif.com-gif-maker (1)_392
+  - first:
+      213: 4680586656508509360
+    second: ezgif.com-gif-maker (1)_393
+  - first:
+      213: -6216196548692699901
+    second: ezgif.com-gif-maker (1)_394
+  - first:
+      213: -8977522274472798012
+    second: ezgif.com-gif-maker (1)_395
+  - first:
+      213: 890396014413597647
+    second: ezgif.com-gif-maker (1)_396
+  - first:
+      213: 4703404926712389735
+    second: ezgif.com-gif-maker (1)_397
+  - first:
+      213: -5980922713205443907
+    second: ezgif.com-gif-maker (1)_398
+  - first:
+      213: 3400793780898804396
+    second: ezgif.com-gif-maker (1)_399
+  - first:
+      213: 7947816070970833319
+    second: ezgif.com-gif-maker (1)_400
+  - first:
+      213: -8783795638199789425
+    second: ezgif.com-gif-maker (1)_401
+  - first:
+      213: 3235796615970773424
+    second: ezgif.com-gif-maker (1)_402
+  - first:
+      213: 5261425957296647043
+    second: ezgif.com-gif-maker (1)_403
+  - first:
+      213: -226239398122779567
+    second: ezgif.com-gif-maker (1)_404
+  - first:
+      213: -3796115615722665567
+    second: ezgif.com-gif-maker (1)_405
+  - first:
+      213: -5443982784358212413
+    second: ezgif.com-gif-maker (1)_406
+  - first:
+      213: -1245551068246464865
+    second: ezgif.com-gif-maker (1)_407
+  - first:
+      213: -5455281326196547770
+    second: ezgif.com-gif-maker (1)_408
+  - first:
+      213: 7420350886931246205
+    second: ezgif.com-gif-maker (1)_409
+  - first:
+      213: 5936970698387492126
+    second: ezgif.com-gif-maker (1)_410
+  - first:
+      213: 3620605330830541733
+    second: ezgif.com-gif-maker (1)_411
+  - first:
+      213: -2723318069653463520
+    second: ezgif.com-gif-maker (1)_412
+  - first:
+      213: 3768933766250537954
+    second: ezgif.com-gif-maker (1)_413
+  - first:
+      213: 6498040958985421660
+    second: ezgif.com-gif-maker (1)_414
+  - first:
+      213: -4227202852795030842
+    second: ezgif.com-gif-maker (1)_415
+  - first:
+      213: -5814760473838041622
+    second: ezgif.com-gif-maker (1)_416
+  - first:
+      213: 4151459003615384997
+    second: ezgif.com-gif-maker (1)_417
+  - first:
+      213: 5703296692869186207
+    second: ezgif.com-gif-maker (1)_418
+  - first:
+      213: 2931790400756359297
+    second: ezgif.com-gif-maker (1)_419
+  - first:
+      213: -3080708660057027278
+    second: ezgif.com-gif-maker (1)_420
+  - first:
+      213: 3000942419858466135
+    second: ezgif.com-gif-maker (1)_421
+  - first:
+      213: 4450639742153344332
+    second: ezgif.com-gif-maker (1)_422
+  - first:
+      213: -5957324012331114397
+    second: ezgif.com-gif-maker (1)_423
+  - first:
+      213: 8776035945794665253
+    second: ezgif.com-gif-maker (1)_424
+  - first:
+      213: -4213551906066785566
+    second: ezgif.com-gif-maker (1)_425
+  - first:
+      213: 2368888306178130560
+    second: ezgif.com-gif-maker (1)_426
+  - first:
+      213: 63025279493284538
+    second: ezgif.com-gif-maker (1)_427
+  - first:
+      213: -1460753022249217149
+    second: ezgif.com-gif-maker (1)_428
+  - first:
+      213: 7983820201421277494
+    second: ezgif.com-gif-maker (1)_429
+  - first:
+      213: -263258823742919741
+    second: ezgif.com-gif-maker (1)_430
+  - first:
+      213: -7008893975726701797
+    second: ezgif.com-gif-maker (1)_431
+  - first:
+      213: -4800458212089526144
+    second: ezgif.com-gif-maker (1)_432
+  - first:
+      213: 6583919402028441032
+    second: ezgif.com-gif-maker (1)_433
+  - first:
+      213: 3476306516873166677
+    second: ezgif.com-gif-maker (1)_434
+  - first:
+      213: 1661034816752249263
+    second: ezgif.com-gif-maker (1)_435
+  - first:
+      213: -4947024049019657141
+    second: ezgif.com-gif-maker (1)_436
+  - first:
+      213: -5208706414206882953
+    second: ezgif.com-gif-maker (1)_437
+  - first:
+      213: 975043660488465903
+    second: ezgif.com-gif-maker (1)_438
+  - first:
+      213: 7529591446830859643
+    second: ezgif.com-gif-maker (1)_439
+  - first:
+      213: 7655196235223669350
+    second: ezgif.com-gif-maker (1)_440
+  - first:
+      213: 3737306175574210623
+    second: ezgif.com-gif-maker (1)_441
+  - first:
+      213: 4329282944979151544
+    second: ezgif.com-gif-maker (1)_442
+  - first:
+      213: 7729286509916716747
+    second: ezgif.com-gif-maker (1)_443
+  - first:
+      213: 7918847642375346995
+    second: ezgif.com-gif-maker (1)_444
+  - first:
+      213: 780552858927988948
+    second: ezgif.com-gif-maker (1)_445
+  - first:
+      213: -1450540314031840155
+    second: ezgif.com-gif-maker (1)_446
+  - first:
+      213: -8211738293430373345
+    second: ezgif.com-gif-maker (1)_447
+  - first:
+      213: 7199116249075659843
+    second: ezgif.com-gif-maker (1)_448
+  - first:
+      213: -9104059805432465281
+    second: ezgif.com-gif-maker (1)_449
+  - first:
+      213: 43947360108060668
+    second: ezgif.com-gif-maker (1)_450
+  - first:
+      213: 4225642479567772291
+    second: ezgif.com-gif-maker (1)_451
+  - first:
+      213: -8396472964531062770
+    second: ezgif.com-gif-maker (1)_452
+  - first:
+      213: -616391298210141223
+    second: ezgif.com-gif-maker (1)_453
+  - first:
+      213: -3777442272989967691
+    second: ezgif.com-gif-maker (1)_454
+  - first:
+      213: 3976022079809184069
+    second: ezgif.com-gif-maker (1)_455
+  - first:
+      213: 8909253703549869082
+    second: ezgif.com-gif-maker (1)_456
+  - first:
+      213: -8566020117937709585
+    second: ezgif.com-gif-maker (1)_457
+  - first:
+      213: 7500299093373648262
+    second: ezgif.com-gif-maker (1)_458
+  - first:
+      213: 6047260867120501775
+    second: ezgif.com-gif-maker (1)_459
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1731dfdee2e3037f0800000000000000
+      internalID: -634939176177036431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (1)_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc91dd64f21be110800000000000000
+      internalID: 1291146559195552984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (1)_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f3bb7ffc9d46b90800000000000000
+      internalID: -7249430012921954511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03acba2838e5c7890800000000000000
+      internalID: -7458982963906360784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61a61cd0decf3720800000000000000
+      internalID: 2828206487452950891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (1)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df26ae93e06c8e560800000000000000
+      internalID: 7343336956831097597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (1)_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daabe3382834414a0800000000000000
+      internalID: -6623594924128421203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (1)_7
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309f8d04140202c60800000000000000
+      internalID: 7791262819983882499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (1)_8
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e52a0978efa5300800000000000000
+      internalID: 241785388218342967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c357380dd40303b40800000000000000
+      internalID: 5417883462495597884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (1)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5fc48f6dbff8600800000000000000
+      internalID: 472873386604557783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (1)_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8366e1092994d3a40800000000000000
+      internalID: 5349512826217981496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (1)_12
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7eec607120e7520800000000000000
+      internalID: 2701599124390602733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99add7c8159455d60800000000000000
+      internalID: 7878283737752787609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d3e1882656870a0800000000000000
+      internalID: -6883640556570919552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (1)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d2af6dad24fddc0800000000000000
+      internalID: -3612094868450824868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (1)_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b2463d88c6bb000800000000000000
+      internalID: 52755155562801969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (1)_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64153f7be8991b90800000000000000
+      internalID: -7270611986194033558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (1)_18
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3789c073ddf2540800000000000000
+      internalID: 4985446541026685951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56784d4d390de7c90800000000000000
+      internalID: -7170064223377782939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (1)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aebbbf83bf77ac00800000000000000
+      internalID: 911837858753134242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (1)_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b66f6d91c8110520800000000000000
+      internalID: 2666439674229122741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (1)_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe8cc8a581e292e0800000000000000
+      internalID: -2120384510359204111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (1)_23
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d53c545897b3580800000000000000
+      internalID: -8846343429731164921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
